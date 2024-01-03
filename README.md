@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @anilkumargoke
-- 👀 I’m interested in coding
-- 🌱 I’m currently studying btech third year at vardhaman 
+#PRODIGY_WD_01 
 - 
 <!---
 anilkumargoke/anilkumargoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
